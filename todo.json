@@ -1,0 +1,17 @@
+{
+   "item1" : {
+      "name" : "Make contact",
+          "memo" : "Make contact with a stranger",
+          "id": 1
+   },
+   "item2" : {
+      "name" : "Look around",
+          "memo" : "Looking around in the world",
+          "id": 2
+   },
+   "item3" : {
+      "name" : "Pick up the phone",
+          "memo" : "Pick up the phone it is ringing",
+          "id": 3
+   }
+}
