@@ -4,6 +4,7 @@ RUN mkdir /app
 RUN npm install nodemon -g
 RUN npm install express
 RUN npm install mongoose
+RUN npm install body-parser
 WORKDIR /app
 COPY package.json /app
 RUN npm install
